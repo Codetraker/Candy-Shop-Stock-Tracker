@@ -1,0 +1,27 @@
+h1{
+    text-align: center;
+    color: rgb(224, 0, 153);
+    font-family: 'Silkscreen', sans-serif;
+    font-size: 35px;
+}
+span{
+    font-family: 'Libre Baskerville', serif;
+    color: rgb(49, 169, 169);
+    font-size: 23px;
+}
+#submit{
+    height: 55px;
+}
+h4{
+    text-align: center;
+    padding-top: 30px;
+    padding-top: 20px;
+}
+#form{
+    text-align: center;
+    font-family: 'Libre Baskerville', serif;
+    font-size: 15px;
+}
+body{
+    background-color: rgb(255, 255, 255);
+}
